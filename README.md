@@ -1,24 +1,8 @@
 # vuejs_tables
 
-## Project setup
-```
-yarn install
-```
+Проект залит на https://stark-woodland-16260.herokuapp.com/#
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Использовался гайд:
+https://cli.vuejs.org/ru/guide/deployment.html#heroku
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Надо было удалить yarn.lock перед заливкой, так как для сборки нужно использовать только один пакетный менеджер.
